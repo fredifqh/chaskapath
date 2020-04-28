@@ -1,2 +1,2 @@
 # chaskapath
-Implementación de potenciales gravitacionales e integradores para la integración de orbitas de estrellas
+Implementación de potenciales gravitacionales e integradores para realizar integración de orbitas de estrellas
